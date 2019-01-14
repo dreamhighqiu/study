@@ -1,0 +1,6 @@
+2018-08-28 09:46:13,496 test_playable.py--> setUp 20: INFO ----->测试用例test_get_preview_url_1___yunxia_qiu_mintegral_com____123456__——————
+2018-08-28 09:46:23,262 test_playable.py--> setUp 20: INFO ----->测试用例test_get_release_url_1___yunxia_qiu_mintegral_com____123456__——————
+2018-08-28 09:46:32,993 test_playable.py--> setUp 20: INFO ----->测试用例test_login_success_1___yunxia_qiu_mintegral_com____123456__——————
+2018-08-28 09:46:43,015 test_playable.py--> setUp 20: INFO ----->测试用例test_login_success_2___yunxia_qiu_mobvista_com____yunxia_qiu__——————
+2018-08-28 09:46:52,551 test_playable.py--> setUp 20: INFO ----->测试用例test_run_main_release_zip_1___yunxia_qiu_mintegral_com____123456____https___itunes_apple_com_cn_app_war_robots_id806077016_mt_8__——————
+2018-08-28 09:47:03,371 test_playable.py--> setUp 20: INFO ----->测试用例test_run_main_update_zip_1___yunxia_qiu_mintegral_com____123456__——————

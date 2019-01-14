@@ -1,0 +1,10 @@
+2018-08-28 10:55:14,184 test_playable.py--> setUp 20: INFO ----->测试用例:test_login_success_1___yunxia_qiu_mintegral_com____123456__——————
+2018-08-28 10:55:23,648 base.py--> loc 20: INFO ----->定位成功：定位方式:---->xpath,定位内容:--->//*[@placeholder='账号邮箱地址']
+2018-08-28 10:55:44,084 base.py--> loc 20: INFO ----->定位失败：定位方式:---->xpath,定位内容:--->//*[@placeholder='密码11']
+2018-08-28 10:55:44,084 base.py--> loc 20: INFO ----->type ==> TimeoutException
+2018-08-28 10:55:44,084 base.py--> loc 20: INFO ----->value ==> 
+2018-08-28 10:55:47,788 test_playable.py--> setUp 20: INFO ----->测试用例:test_login_success_2___yunxia_qiu_mobvista_com____yunxia_qiu__——————
+2018-08-28 10:55:54,961 base.py--> loc 20: INFO ----->定位成功：定位方式:---->xpath,定位内容:--->//*[@placeholder='账号邮箱地址']
+2018-08-28 10:56:15,469 base.py--> loc 20: INFO ----->定位失败：定位方式:---->xpath,定位内容:--->//*[@placeholder='密码11']
+2018-08-28 10:56:15,469 base.py--> loc 20: INFO ----->type ==> TimeoutException
+2018-08-28 10:56:15,469 base.py--> loc 20: INFO ----->value ==> 

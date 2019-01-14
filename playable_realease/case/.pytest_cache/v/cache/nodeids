@@ -1,0 +1,8 @@
+[
+  "test_playable.py::Test_Playable::test_get_preview_url_1___yunxia_qiu_mintegral_com____123456__", 
+  "test_playable.py::Test_Playable::test_get_release_url_1___yunxia_qiu_mintegral_com____123456__", 
+  "test_playable.py::Test_Playable::test_login_success_1___yunxia_qiu_mintegral_com____123456__", 
+  "test_playable.py::Test_Playable::test_login_success_2___yunxia_qiu_mobvista_com____yunxia_qiu__", 
+  "test_playable.py::Test_Playable::test_run_main_release_zip_1___yunxia_qiu_mintegral_com____123456____https___itunes_apple_com_cn_app_war_robots_id806077016_mt_8__", 
+  "test_playable.py::Test_Playable::test_run_main_update_zip_1___yunxia_qiu_mintegral_com____123456__"
+]

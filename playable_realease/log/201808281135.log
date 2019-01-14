@@ -1,0 +1,60 @@
+2018-08-28 11:35:11,862 test_playable.py--> setUp 20: INFO ----->test_get_preview_url_1___yunxia_qiu_mintegral_com____123456__:用例开始执行——————
+2018-08-28 11:35:23,848 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='账号邮箱地址']
+2018-08-28 11:35:24,112 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='密码']
+2018-08-28 11:35:24,210 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@type='button']
+2018-08-28 11:35:27,220 base.py--> locs 20: INFO ----->******定位成功******：定位方式:link text,定位内容:预览
+2018-08-28 11:36:20,997 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://li[text()='2']
+2018-08-28 11:36:23,296 base.py--> locs 20: INFO ----->******定位成功******：定位方式:link text,定位内容:预览
+2018-08-28 11:37:02,905 test_playable.py--> setUp 20: INFO ----->test_get_release_url_1___yunxia_qiu_mintegral_com____123456__:用例开始执行——————
+2018-08-28 11:37:14,894 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='账号邮箱地址']
+2018-08-28 11:37:15,295 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='密码']
+2018-08-28 11:37:15,411 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@type='button']
+2018-08-28 11:37:18,369 base.py--> loc 20: INFO ----->******定位成功******：定位方式:link text,定位内容:预览
+2018-08-28 11:37:20,724 test_playable.py--> setUp 20: INFO ----->test_login_success_1___yunxia_qiu_mintegral_com____123456__:用例开始执行——————
+2018-08-28 11:37:29,078 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='账号邮箱地址']
+2018-08-28 11:37:29,427 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='密码']
+2018-08-28 11:37:29,523 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@type='button']
+2018-08-28 11:37:31,536 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://span[text()='发起提测']
+2018-08-28 11:37:33,908 test_playable.py--> setUp 20: INFO ----->test_login_success_2___yunxia_qiu_mobvista_com____yunxia_qiu__:用例开始执行——————
+2018-08-28 11:37:44,369 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='账号邮箱地址']
+2018-08-28 11:37:44,733 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='密码']
+2018-08-28 11:37:44,864 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@type='button']
+2018-08-28 11:38:06,043 base.py--> loc 20: INFO ----->xxxxxx定位失败xxxxxx：定位方式:xpath,定位内容://span[text()='发起提测']
+定位失败原因:Traceback (most recent call last):
+  File "E:\jssdk\dsp-playable-jssdk\playable_realease\base\base.py", line 71, in loc
+    ele = WebDriverWait(self.driver, time).until(EC.visibility_of_element_located((loc_type, loc_value)))
+  File "D:\install\python2\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+TimeoutException: Message: 
+
+
+2018-08-28 11:38:09,723 test_playable.py--> tearDown 20: INFO ----->test_login_success_2___yunxia_qiu_mobvista_com____yunxia_qiu__:用例执行结束——————
+
+
+2018-08-28 11:38:09,884 test_playable.py--> setUp 20: INFO ----->test_run_main_release_zip_1___yunxia_qiu_mintegral_com____123456____https___itunes_apple_com_cn_app_war_robots_id806077016_mt_8__:用例开始执行——————
+2018-08-28 11:38:21,187 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='账号邮箱地址']
+2018-08-28 11:38:21,496 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='密码']
+2018-08-28 11:38:21,592 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@type='button']
+2018-08-28 11:38:23,450 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://span[text()='发起提测']
+2018-08-28 11:38:23,874 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@id="app"]/div/div[2]/section/div/div[4]/div/div[2]/form/div/div[1]/div/div/div/input
+2018-08-28 11:38:31,062 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://input[@placeholder='请选择地区/语言']
+2018-08-28 11:38:31,253 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://span[text()='AE']
+2018-08-28 11:38:34,407 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://input[@placeholder='类别']
+2018-08-28 11:38:34,562 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://span[text()='playable-2D']
+2018-08-28 11:38:34,710 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://input[@placeholder='技术负责人']
+2018-08-28 11:38:34,839 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://span[text()='王秀平']
+2018-08-28 11:38:34,987 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://input[@placeholder='设计负责人']
+2018-08-28 11:38:35,115 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://span[text()='fh.zhai']
+2018-08-28 11:38:35,283 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://em[text()='点击上传']
+2018-08-28 11:38:45,427 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@id="app"]/div/div[2]/section/div/div[4]/div/div[2]/form/div/div[12]/div/div/div[1]/ul/li/label/i
+2018-08-28 11:39:00,473 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://span[text()='提 测']
+2018-08-28 11:39:00,660 base.py--> loc 20: INFO ----->******定位成功******：定位方式:link text,定位内容:预览
+2018-08-28 11:39:00,707 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://span[text()='发起提测']
+2018-08-28 11:39:03,148 test_playable.py--> setUp 20: INFO ----->test_run_main_update_zip_1___yunxia_qiu_mintegral_com____123456__:用例开始执行——————
+2018-08-28 11:39:11,230 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='账号邮箱地址']
+2018-08-28 11:39:11,628 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='密码']
+2018-08-28 11:39:11,736 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@type='button']
+2018-08-28 11:39:14,961 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://a[text()='更新']
+2018-08-28 11:39:18,920 test_playable.py--> tearDown 20: INFO ----->test_run_main_update_zip_1___yunxia_qiu_mintegral_com____123456__:用例执行结束——————
+
+

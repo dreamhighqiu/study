@@ -1,0 +1,4 @@
+2018-08-28 11:07:38,697 test_playable.py--> setUp 20: INFO ----->测试用例:test_login_success_1___yunxia_qiu_mintegral_com____123456__——————
+2018-08-28 11:07:52,859 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='账号邮箱地址']
+2018-08-28 11:08:16,871 test_playable.py--> setUp 20: INFO ----->测试用例:test_login_success_2___yunxia_qiu_mobvista_com____yunxia_qiu__——————
+2018-08-28 11:08:29,382 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='账号邮箱地址']

@@ -1,0 +1,36 @@
+2018-08-28 10:01:13,585 test_playable.py--> setUp 20: INFO ----->测试用例test_get_preview_url_1___yunxia_qiu_mintegral_com____123456__——————
+2018-08-28 10:01:22,119 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='账号邮箱地址']
+2018-08-28 10:01:22,539 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='密码']
+2018-08-28 10:01:22,661 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@type='button']
+2018-08-28 10:01:24,849 base.py--> locs 20: INFO ----->定位方式:---->link text,定位内容:--->预览
+2018-08-28 10:02:08,303 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//li[text()='2']
+2018-08-28 10:02:10,901 base.py--> locs 20: INFO ----->定位方式:---->link text,定位内容:--->预览
+2018-08-28 10:02:53,296 test_playable.py--> setUp 20: INFO ----->测试用例test_get_release_url_1___yunxia_qiu_mintegral_com____123456__——————
+2018-08-28 10:03:36,828 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='账号邮箱地址']
+2018-08-28 10:03:39,536 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='密码']
+2018-08-28 10:03:40,368 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@type='button']
+2018-08-28 10:03:41,229 base.py--> loc 20: INFO ----->定位方式:---->link text,定位内容:--->预览
+2018-08-28 10:04:00,888 test_playable.py--> setUp 20: INFO ----->测试用例test_login_success_1___yunxia_qiu_mintegral_com____123456__——————
+2018-08-28 10:04:52,855 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='账号邮箱地址']
+2018-08-28 10:04:55,923 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='密码']
+2018-08-28 10:04:56,996 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@type='button']
+2018-08-28 10:04:58,094 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//span[text()='发起提测']
+2018-08-28 10:05:28,555 test_playable.py--> setUp 20: INFO ----->测试用例test_login_success_2___yunxia_qiu_mobvista_com____yunxia_qiu__——————
+2018-08-28 10:06:26,155 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='账号邮箱地址']
+2018-08-28 10:06:29,894 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='密码']
+2018-08-28 10:06:31,578 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@type='button']
+2018-08-28 10:06:32,562 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//span[text()='发起提测']
+2018-08-28 10:07:06,117 test_playable.py--> setUp 20: INFO ----->测试用例test_run_main_release_zip_1___yunxia_qiu_mintegral_com____123456____https___itunes_apple_com_cn_app_war_robots_id806077016_mt_8__——————
+2018-08-28 10:08:11,588 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='账号邮箱地址']
+2018-08-28 10:08:15,585 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='密码']
+2018-08-28 10:08:16,516 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@type='button']
+2018-08-28 10:08:17,434 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//span[text()='发起提测']
+2018-08-28 10:09:14,588 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@id="app"]/div/div[2]/section/div/div[4]/div/div[2]/form/div/div[1]/div/div/div/input
+2018-08-28 10:11:16,996 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//input[@placeholder='请选择地区/语言']
+2018-08-28 10:11:22,134 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//span[text()='AE']
+2018-08-28 10:11:25,364 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//input[@placeholder='类别']
+2018-08-28 10:11:31,283 test_playable.py--> setUp 20: INFO ----->测试用例test_run_main_update_zip_1___yunxia_qiu_mintegral_com____123456__——————
+2018-08-28 10:11:40,453 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='账号邮箱地址']
+2018-08-28 10:11:40,737 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='密码']
+2018-08-28 10:11:40,838 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@type='button']
+2018-08-28 10:11:43,950 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//a[text()='更新']

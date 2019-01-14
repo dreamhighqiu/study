@@ -1,0 +1,16 @@
+2018-08-28 10:48:11,983 test_playable.py--> setUp 20: INFO ----->测试用例:test_login_success_1___yunxia_qiu_mintegral_com____123456__——————
+2018-08-28 10:48:26,444 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='账号邮箱地址']
+2018-08-28 10:48:26,746 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='密码11']
+2018-08-28 10:48:46,880 base.py--> loc 20: INFO ----->type ==> TimeoutException
+2018-08-28 10:48:46,881 base.py--> loc 20: INFO ----->value ==> 
+2018-08-28 10:48:46,881 base.py--> loc 20: INFO ----->traceback ==> file name: E:\jssdk\dsp-playable-jssdk\playable_realease\base\base.py
+2018-08-28 10:48:46,881 base.py--> loc 20: INFO ----->traceback ==> line no: 73
+2018-08-28 10:48:46,881 base.py--> loc 20: INFO ----->traceback ==> function name: loc
+2018-08-28 10:48:50,599 test_playable.py--> setUp 20: INFO ----->测试用例:test_login_success_2___yunxia_qiu_mobvista_com____yunxia_qiu__——————
+2018-08-28 10:48:59,476 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='账号邮箱地址']
+2018-08-28 10:48:59,878 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='密码11']
+2018-08-28 10:49:20,049 base.py--> loc 20: INFO ----->type ==> TimeoutException
+2018-08-28 10:49:20,049 base.py--> loc 20: INFO ----->value ==> 
+2018-08-28 10:49:20,049 base.py--> loc 20: INFO ----->traceback ==> file name: E:\jssdk\dsp-playable-jssdk\playable_realease\base\base.py
+2018-08-28 10:49:20,049 base.py--> loc 20: INFO ----->traceback ==> line no: 73
+2018-08-28 10:49:20,049 base.py--> loc 20: INFO ----->traceback ==> function name: loc

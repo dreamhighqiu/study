@@ -1,0 +1,24 @@
+2018-08-28 11:09:23,772 test_playable.py--> setUp 20: INFO ----->测试用例:test_login_success_1___yunxia_qiu_mintegral_com____123456__——————
+2018-08-28 11:09:34,236 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='账号邮箱地址']
+2018-08-28 11:09:54,752 base.py--> loc 20: INFO ----->
+xxxxxx定位失败xxxxxx：定位方式:xpath,定位内容://*[@placeholder='密码11']				定位失败原因:Traceback (most recent call last):
+  File "E:\jssdk\dsp-playable-jssdk\playable_realease\base\base.py", line 74, in loc
+    ele = WebDriverWait(self.driver,time).until(EC.visibility_of_element_located((loc_type,loc_value)))
+  File "D:\install\python2\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+TimeoutException: Message: 
+
+
+
+2018-08-28 11:09:58,607 test_playable.py--> setUp 20: INFO ----->测试用例:test_login_success_2___yunxia_qiu_mobvista_com____yunxia_qiu__——————
+2018-08-28 11:10:11,936 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='账号邮箱地址']
+2018-08-28 11:10:32,403 base.py--> loc 20: INFO ----->
+xxxxxx定位失败xxxxxx：定位方式:xpath,定位内容://*[@placeholder='密码11']				定位失败原因:Traceback (most recent call last):
+  File "E:\jssdk\dsp-playable-jssdk\playable_realease\base\base.py", line 74, in loc
+    ele = WebDriverWait(self.driver,time).until(EC.visibility_of_element_located((loc_type,loc_value)))
+  File "D:\install\python2\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+TimeoutException: Message: 
+
+
+

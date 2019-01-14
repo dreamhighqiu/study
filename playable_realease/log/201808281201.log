@@ -1,0 +1,107 @@
+2018-08-28 12:01:08,380 test_playable.py--> setUp 20: INFO ----->test_get_preview_url_1___yunxia_qiu_mintegral_com____123456__:用例开始执行
+test_get_preview_url_1___yunxia_qiu_mintegral_com____123456__:用例开始执行
+2018-08-28 12:01:16,196 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='账号邮箱地址']
+2018-08-28 12:01:16,397 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='密码']
+2018-08-28 12:01:16,494 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@type='button']
+2018-08-28 12:01:19,233 base.py--> locs 20: INFO ----->******定位成功******：定位方式:link text,定位内容:预览
+2018-08-28 12:01:22,861 test_playable.py--> tearDown 20: INFO ----->
+
+test_get_preview_url_1___yunxia_qiu_mintegral_com____123456__:用例执行结束
+
+
+test_get_preview_url_1___yunxia_qiu_mintegral_com____123456__:用例执行结束
+2018-08-28 12:01:22,957 test_playable.py--> setUp 20: INFO ----->test_get_release_url_1___yunxia_qiu_mintegral_com____123456__:用例开始执行
+test_get_release_url_1___yunxia_qiu_mintegral_com____123456__:用例开始执行
+2018-08-28 12:01:30,598 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='账号邮箱地址']
+2018-08-28 12:01:30,801 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='密码']
+2018-08-28 12:01:30,904 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@type='button']
+2018-08-28 12:01:33,513 base.py--> loc 20: INFO ----->******定位成功******：定位方式:link text,定位内容:预览
+2018-08-28 12:01:35,526 test_playable.py--> tearDown 20: INFO ----->
+
+test_get_release_url_1___yunxia_qiu_mintegral_com____123456__:用例执行结束
+
+
+test_get_release_url_1___yunxia_qiu_mintegral_com____123456__:用例执行结束
+2018-08-28 12:01:35,575 test_playable.py--> setUp 20: INFO ----->test_login_success_1___yunxia_qiu_mintegral_com____123456__:用例开始执行
+test_login_success_1___yunxia_qiu_mintegral_com____123456__:用例开始执行
+2018-08-28 12:01:43,257 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='账号邮箱地址']
+2018-08-28 12:01:43,454 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='密码']
+2018-08-28 12:01:43,552 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@type='button']
+2018-08-28 12:01:45,311 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://span[text()='发起提测']
+2018-08-28 12:01:47,332 test_playable.py--> tearDown 20: INFO ----->
+
+test_login_success_1___yunxia_qiu_mintegral_com____123456__:用例执行结束
+
+
+test_login_success_1___yunxia_qiu_mintegral_com____123456__:用例执行结束
+2018-08-28 12:01:47,414 test_playable.py--> setUp 20: INFO ----->test_login_success_2___yunxia_qiu_mobvista_com____yunxia_qiu__:用例开始执行
+test_login_success_2___yunxia_qiu_mobvista_com____yunxia_qiu__:用例开始执行
+2018-08-28 12:01:55,421 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='账号邮箱地址']
+2018-08-28 12:01:55,641 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='密码']
+2018-08-28 12:01:55,750 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@type='button']
+2018-08-28 12:02:16,926 base.py--> loc 20: INFO ----->xxxxxx定位失败xxxxxx：定位方式:xpath,定位内容://span[text()='发起提测']
+定位失败原因:Traceback (most recent call last):
+  File "E:\jssdk\dsp-playable-jssdk\playable_realease\base\base.py", line 71, in loc
+    ele = WebDriverWait(self.driver, time).until(EC.visibility_of_element_located((loc_type, loc_value)))
+  File "D:\install\python2\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+TimeoutException: Message: 
+
+
+2018-08-28 12:02:20,405 test_playable.py--> tearDown 20: INFO ----->
+
+test_login_success_2___yunxia_qiu_mobvista_com____yunxia_qiu__:用例执行结束
+
+
+test_login_success_2___yunxia_qiu_mobvista_com____yunxia_qiu__:用例执行结束
+2018-08-28 12:02:20,430 test_playable.py--> setUp 20: INFO ----->test_run_main_release_zip_1___yunxia_qiu_mintegral_com____123456____https___itunes_apple_com_cn_app_war_robots_id806077016_mt_8__:用例开始执行
+test_run_main_release_zip_1___yunxia_qiu_mintegral_com____123456____https___itunes_apple_com_cn_app_war_robots_id806077016_mt_8__:用例开始执行
+2018-08-28 12:02:28,851 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='账号邮箱地址']
+2018-08-28 12:02:29,069 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='密码']
+2018-08-28 12:02:29,160 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@type='button']
+2018-08-28 12:02:31,013 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://span[text()='发起提测']
+2018-08-28 12:02:31,486 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@id="app"]/div/div[2]/section/div/div[4]/div/div[2]/form/div/div[1]/div/div/div/input
+2018-08-28 12:02:37,256 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://input[@placeholder='请选择地区/语言']
+2018-08-28 12:02:37,447 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://span[text()='AE']
+2018-08-28 12:02:40,530 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://input[@placeholder='类别']
+2018-08-28 12:02:40,687 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://span[text()='playable-2D']
+2018-08-28 12:02:40,812 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://input[@placeholder='技术负责人']
+2018-08-28 12:02:40,928 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://span[text()='王秀平']
+2018-08-28 12:02:41,168 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://input[@placeholder='设计负责人']
+2018-08-28 12:02:41,407 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://span[text()='fh.zhai']
+2018-08-28 12:02:41,539 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://em[text()='点击上传']
+2018-08-28 12:03:07,884 base.py--> loc 20: INFO ----->xxxxxx定位失败xxxxxx：定位方式:xpath,定位内容://*[@id="app"]/div/div[2]/section/div/div[4]/div/div[2]/form/div/div[12]/div/div/div[1]/ul/li/label/i
+定位失败原因:Traceback (most recent call last):
+  File "E:\jssdk\dsp-playable-jssdk\playable_realease\base\base.py", line 71, in loc
+    ele = WebDriverWait(self.driver, time).until(EC.visibility_of_element_located((loc_type, loc_value)))
+  File "D:\install\python2\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+TimeoutException: Message: 
+
+
+2018-08-28 12:03:22,940 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://span[text()='提 测']
+2018-08-28 12:03:23,072 base.py--> loc 20: INFO ----->******定位成功******：定位方式:link text,定位内容:预览
+2018-08-28 12:03:23,114 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://span[text()='发起提测']
+2018-08-28 12:03:25,131 test_playable.py--> tearDown 20: INFO ----->
+
+test_run_main_release_zip_1___yunxia_qiu_mintegral_com____123456____https___itunes_apple_com_cn_app_war_robots_id806077016_mt_8__:用例执行结束
+
+
+test_run_main_release_zip_1___yunxia_qiu_mintegral_com____123456____https___itunes_apple_com_cn_app_war_robots_id806077016_mt_8__:用例执行结束
+2018-08-28 12:03:25,210 test_playable.py--> setUp 20: INFO ----->test_run_main_update_zip_1___yunxia_qiu_mintegral_com____123456__:用例开始执行
+test_run_main_update_zip_1___yunxia_qiu_mintegral_com____123456__:用例开始执行
+2018-08-28 12:03:34,062 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='账号邮箱地址']
+2018-08-28 12:03:34,265 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='密码']
+2018-08-28 12:03:34,361 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@type='button']
+2018-08-28 12:03:37,469 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://a[text()='更新']
+2018-08-28 12:03:37,654 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://em[text()='点击上传']
+2018-08-28 12:03:57,898 base.py--> loc 20: INFO ----->******定位成功******：定位方式:class name,定位内容:el-textarea__inner
+2018-08-28 12:03:58,371 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://span[text()='确 定']
+2018-08-28 12:03:58,486 base.py--> loc 20: INFO ----->******定位成功******：定位方式:link text,定位内容:预览
+2018-08-28 12:03:58,540 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://span[text()='发起提测']
+2018-08-28 12:04:00,562 test_playable.py--> tearDown 20: INFO ----->
+
+test_run_main_update_zip_1___yunxia_qiu_mintegral_com____123456__:用例执行结束
+
+
+test_run_main_update_zip_1___yunxia_qiu_mintegral_com____123456__:用例执行结束

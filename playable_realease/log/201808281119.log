@@ -1,0 +1,38 @@
+2018-08-28 11:19:18,127 base.py--> loc 20: INFO ----->xxxxxx定位失败xxxxxx：定位方式:xpath,定位内容://*[@placeholder='账号邮箱地址']
+定位失败原因:Traceback (most recent call last):
+  File "E:\jssdk\dsp-playable-jssdk\playable_realease\base\base.py", line 71, in loc
+    ele = WebDriverWait(self.driver, time).until(EC.visibility_of_element_located((loc_type, loc_value)))
+  File "D:\install\python2\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:\install\python2\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 127, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "D:\install\python2\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 401, in _find_element
+    raise e
+NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+
+2018-08-28 11:19:25,193 test_playable.py--> setUp 20: INFO ----->测试用例:test_get_preview_url——————
+2018-08-28 11:19:39,240 test_playable.py--> setUp 20: INFO ----->测试用例:test_get_release_url_1___yunxia_qiu_mintegral_com____123456__——————
+2018-08-28 11:19:55,516 test_playable.py--> setUp 20: INFO ----->测试用例:test_login_success_1___yunxia_qiu_mintegral_com____123456__——————
+2018-08-28 11:20:06,415 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='账号邮箱地址']
+2018-08-28 11:20:06,790 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='密码']
+2018-08-28 11:20:06,917 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@type='button']
+2018-08-28 11:20:09,203 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://span[text()='发起提测']
+2018-08-28 11:20:11,411 test_playable.py--> setUp 20: INFO ----->测试用例:test_login_success_2___yunxia_qiu_mobvista_com____yunxia_qiu__——————
+2018-08-28 11:20:24,115 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='账号邮箱地址']
+2018-08-28 11:20:24,446 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@placeholder='密码']
+2018-08-28 11:20:24,599 base.py--> loc 20: INFO ----->******定位成功******：定位方式:xpath,定位内容://*[@type='button']
+2018-08-28 11:20:45,779 base.py--> loc 20: INFO ----->xxxxxx定位失败xxxxxx：定位方式:xpath,定位内容://span[text()='发起提测']
+定位失败原因:Traceback (most recent call last):
+  File "E:\jssdk\dsp-playable-jssdk\playable_realease\base\base.py", line 71, in loc
+    ele = WebDriverWait(self.driver, time).until(EC.visibility_of_element_located((loc_type, loc_value)))
+  File "D:\install\python2\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+TimeoutException: Message: 
+
+
+2018-08-28 11:20:51,588 test_playable.py--> setUp 20: INFO ----->测试用例:test_run_main_release_zip_1___yunxia_qiu_mintegral_com____123456____https___itunes_apple_com_cn_app_war_robots_id806077016_mt_8__——————
+2018-08-28 11:21:12,213 test_playable.py--> setUp 20: INFO ----->测试用例:test_run_main_update_zip_1___yunxia_qiu_mintegral_com____123456__——————

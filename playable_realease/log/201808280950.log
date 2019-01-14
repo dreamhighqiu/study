@@ -1,0 +1,3 @@
+2018-08-28 09:50:47,936 test_playable.py--> setUp 20: INFO ----->测试用例test_get_preview_url_1___yunxia_qiu_mintegral_com____123456__——————
+2018-08-28 09:51:03,377 test_playable.py--> setUp 20: INFO ----->测试用例test_get_release_url_1___yunxia_qiu_mintegral_com____123456__——————
+2018-08-28 09:51:12,359 test_playable.py--> setUp 20: INFO ----->测试用例test_login_success_1___yunxia_qiu_mintegral_com____123456__——————

@@ -1,0 +1,12 @@
+2018-08-28 10:32:32,723 test_playable.py--> setUp 20: INFO ----->测试用例test_get_preview_url——————
+2018-08-28 10:32:43,410 test_playable.py--> setUp 20: INFO ----->测试用例test_get_release_url_1___yunxia_qiu_mintegral_com____123456__——————
+2018-08-28 10:32:56,365 test_playable.py--> setUp 20: INFO ----->测试用例test_login_success_1___yunxia_qiu_mintegral_com____123456__——————
+2018-08-28 10:33:03,474 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='账号邮箱地址']
+2018-08-28 10:33:03,793 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='密码11']
+2018-08-28 10:33:23,993 base.py--> loc 20: INFO ----->定位失败信息：<class 'selenium.common.exceptions.TimeoutException'>
+2018-08-28 10:33:27,839 test_playable.py--> setUp 20: INFO ----->测试用例test_login_success_2___yunxia_qiu_mobvista_com____yunxia_qiu__——————
+2018-08-28 10:33:35,217 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='账号邮箱地址']
+2018-08-28 10:33:35,500 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='密码11']
+2018-08-28 10:33:55,631 base.py--> loc 20: INFO ----->定位失败信息：<class 'selenium.common.exceptions.TimeoutException'>
+2018-08-28 10:33:59,342 test_playable.py--> setUp 20: INFO ----->测试用例test_run_main_release_zip_1___yunxia_qiu_mintegral_com____123456____https___itunes_apple_com_cn_app_war_robots_id806077016_mt_8__——————
+2018-08-28 10:34:10,257 test_playable.py--> setUp 20: INFO ----->测试用例test_run_main_update_zip_1___yunxia_qiu_mintegral_com____123456__——————

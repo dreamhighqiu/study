@@ -1,0 +1,8 @@
+2018-08-28 10:20:39,463 test_playable.py--> setUp 20: INFO ----->测试用例test_get_preview_url——————
+2018-08-28 10:20:58,128 test_playable.py--> setUp 20: INFO ----->测试用例test_get_release_url_1___yunxia_qiu_mintegral_com____123456__——————
+2018-08-28 10:21:11,178 test_playable.py--> setUp 20: INFO ----->测试用例test_login_success_1___yunxia_qiu_mintegral_com____123456__——————
+2018-08-28 10:21:29,857 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='账号邮箱地址']
+2018-08-28 10:21:33,555 test_playable.py--> setUp 20: INFO ----->测试用例test_login_success_2___yunxia_qiu_mobvista_com____yunxia_qiu__——————
+2018-08-28 10:21:56,308 base.py--> loc 20: INFO ----->定位方式:---->xpath,定位内容:--->//*[@placeholder='账号邮箱地址']
+2018-08-28 10:22:00,194 test_playable.py--> setUp 20: INFO ----->测试用例test_run_main_release_zip_1___yunxia_qiu_mintegral_com____123456____https___itunes_apple_com_cn_app_war_robots_id806077016_mt_8__——————
+2018-08-28 10:22:12,543 test_playable.py--> setUp 20: INFO ----->测试用例test_run_main_update_zip_1___yunxia_qiu_mintegral_com____123456__——————
